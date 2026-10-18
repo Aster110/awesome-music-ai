@@ -36,6 +36,10 @@ A curated list of AI tools for music composition, generation, and analysis.
 - [Moises](https://moises.ai/) - An AI app for separating songs into stems, detecting chords, transcribing lyrics, and changing tempo or pitch.
 - [MAGDA](https://magda.land/) - A DAW with an AI chat assistant that runs natural-language commands for editing, mixing, and sound design. [#opensource](https://github.com/Conceptual-Machines/magda-core)
 
+## AI vocals
+
+- [ACE Studio](https://acestudio.ai/) - An AI vocal synthesizer that generates singing from MIDI and lyrics, with voice cloning and per-note control.
+
 ## Distribution
 
 - [DistroKid](https://distrokid.com/) - Distribution app.
