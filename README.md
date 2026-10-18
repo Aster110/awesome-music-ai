@@ -39,6 +39,7 @@ A curated list of AI tools for music composition, generation, and analysis.
 ## AI vocals
 
 - [ACE Studio](https://acestudio.ai/) - An AI vocal synthesizer that generates singing from MIDI and lyrics, with voice cloning and per-note control.
+- [Kits AI](https://www.kits.ai/) - An AI vocal platform for voice conversion with licensed artist voices, custom voice training, and harmony generation.
 
 ## Distribution
 
