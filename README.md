@@ -38,6 +38,7 @@ A curated list of AI tools for music composition, generation, and analysis.
 ## AI in the DAW
 
 - [MAGDA](https://magda.land/) - A DAW with an AI chat assistant that runs natural-language commands for editing, mixing, and sound design. [#opensource](https://github.com/Conceptual-Machines/magda-core)
+- [Dawbrain](https://www.dawbrain.com/) - An AI assistant for Ableton Live that writes MIDI, arranges clips, and sets up devices and the mix in the open session.
 
 ## AI vocals
 
