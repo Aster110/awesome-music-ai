@@ -34,6 +34,9 @@ A curated list of AI tools for music composition, generation, and analysis.
 
 - [LANDR](https://www.landr.com/) - Samples, plugins, distribution and AI mastering engine.
 - [Moises](https://moises.ai/) - An AI app for separating songs into stems, detecting chords, transcribing lyrics, and changing tempo or pitch.
+
+## AI in the DAW
+
 - [MAGDA](https://magda.land/) - A DAW with an AI chat assistant that runs natural-language commands for editing, mixing, and sound design. [#opensource](https://github.com/Conceptual-Machines/magda-core)
 
 ## AI vocals
